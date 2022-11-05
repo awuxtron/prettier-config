@@ -1,0 +1,14 @@
+{
+    "name": "@awuxtron/prettier-config",
+    "version": "1.0.0",
+    "description": "My personal Prettier configuration",
+    "keywords": ["prettier", "prettier-config"],
+    "license": "MIT",
+    "author": "Diep Dang <awuxtron@gmail.com> (https://awuxtron.dev)",
+    "repository": "github:awuxtron/prettier-config",
+    "publishConfig": {
+        "access": "public"
+    },
+    "files": ["index.json"],
+    "main": "index.json"
+}
